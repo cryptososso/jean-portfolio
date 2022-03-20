@@ -173,7 +173,7 @@ footer{
    width: 100%;
    margin: 0 auto;
    background-color: rgb(49, 48, 64);
-   margin-bottom: 1em;
+   margin-bottom: 0.2em;
  }
 
   .grid{
@@ -188,6 +188,10 @@ footer{
 
   .project{
      grid-column: 1/ span 2;
+  }
+
+  footer{
+     margin-top: 10em;
   }
 
 
