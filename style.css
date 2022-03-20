@@ -17,7 +17,6 @@ body{
    margin: 0 auto;
    padding: 0 1em;
    background-color: rgb(49, 48, 64);
-
 }
 
 .flex{
@@ -119,7 +118,7 @@ span{
    flex-direction: column;
    align-items: center;
    justify-content: center;
-
+   margin-bottom: 0;
 }
 
 .project i{
@@ -132,7 +131,6 @@ span{
 .project i:hover{
    font-size: 5rem;
    color: orangered;
-
 }
 
 footer{
