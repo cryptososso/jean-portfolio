@@ -276,15 +276,14 @@ footer{
    margin-left: 1em;
 }
 
-@media  only screen and (min-width : 760px){
+@media  only screen and (min-width : 700px){
 
    #main{
       width: 800px;
-      height: 80vh;
    }
    
    #projects{
-      grid-template-columns: repeat(4, 1fr);
+      grid-template-columns: repeat(2, 1fr);
       gap: 1em;
    }
 
